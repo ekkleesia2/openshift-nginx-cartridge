@@ -49,7 +49,7 @@ Endpoints:
       - Frontend:      ""
         Backend:       ""
         Options:       { websocket: true }
-      - Frontend:      "/health"
+      - Frontend:      "/m/n/health"
         Backend:       ""
         Options:       { health: true }
 Install-Build-Required: false
