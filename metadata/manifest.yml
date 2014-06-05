@@ -1,7 +1,7 @@
 Name: nginx
 Cartridge-Short-Name: NGINX
 Display-Name: Nginx
-Source-Url: git@github.com:ekkleesia2/openshift-nginx-cartridge.git
+Source-Url: https://github.com/ekkleesia2/openshift-nginx-cartridge.git
 Version: "1.4.4"
 Versions: ["1.4.4"]
 Website: https://github.com/gsterjov/openshift-nginx-cart
